@@ -57,6 +57,7 @@ Hosted on Firebase: **https://sec-dashboard-4c3af.web.app**
 
 ### Components page
 
+<img src="Components Page.png" width="1000"/>
 
 ---
 
