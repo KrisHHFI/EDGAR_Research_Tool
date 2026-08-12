@@ -59,6 +59,10 @@ Hosted on Firebase: **https://sec-dashboard-4c3af.web.app**
 
 <img src="Components Page.png" width="1000"/>
 
+
+### Branding page
+<img src="Branding Page.png" width="1000"/>
+
 ---
 
 ## Tech Stack
