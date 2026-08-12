@@ -53,6 +53,13 @@ Hosted on Firebase: **https://sec-dashboard-4c3af.web.app**
 
 ---
 
+## Behind the scenes features
+
+### Components page
+
+
+---
+
 ## Tech Stack
 
 - **React + TypeScript** — component logic and type safety
